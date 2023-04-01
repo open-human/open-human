@@ -1,5 +1,9 @@
 ### ✨ OpenHuman.ai ✨ 👋
 
+Open Digital Human Assistant
+
+Website: [openhuman.ai](https://openhuman.ai)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
